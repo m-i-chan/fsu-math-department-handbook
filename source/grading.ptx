@@ -4,7 +4,7 @@
 
   <title>Grading</title>
   
-   <paragraphs>
+   <subsection>
       <title>Homework</title>
 
       <p>
@@ -17,10 +17,10 @@
         Our brains do not retain information that we don't work for.
       </p>
 
-    </paragraphs>
+    </subsection>
 
 
-   <paragraphs>
+   <subsection>
       <title>Standards-Based Grading (SBG)</title>
 
       <p>
@@ -72,9 +72,9 @@ Knowing the material is the important thing and I do not want to penalize you fo
   This then means they get a 0 on the first attempt and are back to the old style of grading where there is no chance to improve from a constructive first attempt.
   </p>
 
-    </paragraphs>
+    </subsection>
 
-    <paragraphs>
+    <subsection>
       <title>Final Exam</title>
 
       <p>
@@ -83,12 +83,12 @@ Knowing the material is the important thing and I do not want to penalize you fo
         You need to grow beyond basic understand to see things at a deeper level.
         That is how you will retain them and be able to succeed on new problems!
       </p>
-    </paragraphs>
+    </subsection>
 
 
 
 
-    <paragraphs>
+    <subsection>
       <title>Final Grades</title>
 
       <p>
@@ -181,7 +181,7 @@ Knowing the material is the important thing and I do not want to penalize you fo
         </sbsgroup>
       
       </p>
-    </paragraphs>
+    </subsection>
 
 
   </section>

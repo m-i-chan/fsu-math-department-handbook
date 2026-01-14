@@ -3,10 +3,8 @@
 <section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Information</title>
 
-  <introduction>
-    <p>
-      Welcome to MATH 180, Section 003 for Spring 2026!
-    </p>
+  <subsection xml:id="subsec-TheBasics">
+    <title>The Basics</title>
 
     
     <p>
@@ -108,6 +106,6 @@
     </dl>
     </p>
 
-  </introduction>
+  </subsection>
 
 </section>
