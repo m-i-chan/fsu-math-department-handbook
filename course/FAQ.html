@@ -76,9 +76,7 @@ window.MathJax = {
 };
 </script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><meta name="Keywords" content="Authored in PreTeXt">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta property="og:type" content="book">
-<meta property="book:title" content="Precalculus">
-<meta property="book:author" content="Matthew Moynihan">
+<meta property="og:type" content="article">
 <script src="_static/pretext/js/lib/jquery.min.js"></script><script src="_static/pretext/js/lib/jquery.sticky.js"></script><script src="_static/pretext/js/lib/jquery.espy.min.js"></script><script src="_static/pretext/js/pretext.js"></script><script src="_static/pretext/js/pretext_add_on.js?x=1"></script><script src="_static/pretext/js/user_preferences.js"></script><!--** eBookCongig is necessary to configure interactive       **-->
 <!--** Runestone components to run locally in reader's browser **-->
 <!--** No external communication:                              **-->
@@ -101,19 +99,19 @@ eBookConfig.allow_pairs = false;
 eBookConfig.enableScratchAC = false;
 eBookConfig.build_info = "";
 eBookConfig.python3 = null;
-eBookConfig.runestone_version = '7.11.7';
+eBookConfig.runestone_version = '7.11.9';
 eBookConfig.jobehost = '';
 eBookConfig.proxyuri_runs = '';
 eBookConfig.proxyuri_files = '';
 eBookConfig.enable_chatcodes =  false;
 </script>
 <!--*** Runestone Services ***-->
-<script src="_static/prefix-runtime.991c135ccf182bf5.bundle.js"></script><script src="_static/prefix-723.3e6434f80549315a.bundle.js"></script><script src="_static/prefix-runestone.c2757fc695bc848c.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-723.3bccd435914aa0ff.css">
-<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.f4ab138da65f4203.css">
+<script src="_static/prefix-runtime.991c135ccf182bf5.bundle.js"></script><script src="_static/prefix-723.3e6434f80549315a.bundle.js"></script><script src="_static/prefix-runestone.1c010553c35c544c.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-723.3bccd435914aa0ff.css">
+<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.677a75a9120449ff.css">
 <script src="_static/pretext/js/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><script src="_static/pretext/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
 </script>
 </head>
-<body class="pretext book ignore-math">
+<body class="pretext article ignore-math">
 <a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner"><div class="title-container">
 <h1 class="heading"><a href="root-1-2.html"><span class="title">Precalculus</span> <span class="subtitle">MATH 180 Spring 2026</span></a></h1>
 <p class="byline">Matthew Moynihan</p>
@@ -135,7 +133,7 @@ eBookConfig.enable_chatcodes =  false;
 <textarea class="embed-code-textbox" id="embed-code-textbox" readonly aria-label="textbox"><iframe src="https://example.com/embed" width="100%" height="1000"></iframe></textarea><button class="copy-embed-button button" id="copy-embed-button" title="Copy embed code"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe14d;</span><span class="name">Copy</span></button>
 </div>
 </div>
-<button id="light-dark-button" class="light-dark-button button" title="Dark Mode"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe51c;</span><span class="name">Dark Mode</span></button></span><span class="treebuttons"><a class="previous-button button" href="policies.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="root-1-2.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="important-dates.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
+<button id="light-dark-button" class="light-dark-button button" title="Dark Mode"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe51c;</span><span class="name">Dark Mode</span></button></span><span class="treebuttons"><a class="previous-button button" href="policies-12.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="root-1-2.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="FAQ-2.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
 </div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\N}{\mathbb N}
 \newcommand{\Z}{\mathbb Z}
 \newcommand{\Q}{\mathbb Q}
@@ -147,58 +145,49 @@ eBookConfig.enable_chatcodes =  false;
 \newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
 \)</span></div>
 <div class="ptx-page">
-<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth1 focused" data-preexpanded-levels="0" data-max-levels="1"><ul class="structural toc-item-list contains-active">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth2 focused" data-preexpanded-levels="0" data-max-levels="2"><ul class="structural toc-item-list contains-active">
 <li class="toc-item toc-frontmatter"><div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
 <li class="toc-item toc-chapter"><div class="toc-title-box"><a href="information.html" class="internal"><span class="title">Course Information</span></a></div></li>
 <li class="toc-item toc-chapter"><div class="toc-title-box"><a href="Grading.html" class="internal"><span class="title">Grading</span></a></div></li>
-<li class="toc-item toc-chapter"><div class="toc-title-box"><a href="policies.html" class="internal"><span class="title">Course Policies</span></a></div></li>
-<li class="toc-item toc-chapter active"><div class="toc-title-box"><a href="FAQ.html" class="internal"><span class="title">Frequently Asked Questions</span></a></div></li>
-<li class="toc-item toc-chapter"><div class="toc-title-box"><a href="important-dates.html" class="internal"><span class="title">Important Dates</span></a></div></li>
-</ul></nav></div>
-<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="chapter" id="FAQ"><h2 class="heading hide-type">
-<span class="type">Chapter</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Frequently Asked Questions</span>
-</h2>
-<section class="paragraphs" id="FAQ-2"><h2 class="heading"><span class="title">How can I get extra help learning the material?</span></h2>
-<div class="para" id="FAQ-2-2">I encourage you to come to Student Help Hours whenever you have questions. Make sure to see me as soon as possible if you feel that you are falling behind.<div class="autopermalink" data-description="Paragraph"><a href="#FAQ-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Paragraphs: How can I get extra help learning the material?"><a href="#FAQ-2" title="Copy heading and permalink for Paragraphs: How can I get extra help learning the material?" aria-label="Copy heading and permalink for Paragraphs: How can I get extra help learning the material?">🔗</a></div></section><section class="paragraphs" id="FAQ-3"><h2 class="heading"><span class="title">What if I need academic accommodations like extra time or a reduced distraction environment for exams?</span></h2>
-<div class="para" id="FAQ-3-2">Any student eligible for and requesting academic accommodation due to a disability is requested to provide Documentation Confirmation from Disability/Access Services within the first two weeks of the beginning of class. <a class="external" href="https://www.framingham.edu/academics/academic-success/center-academic-success-and-achievement" target="_blank">Disability/Access Services</a> is located in the Center for Academic Success and Achievement (CASA). Please email <a class="external" href="mailto:disabilityservices@framingham.edu" target="_blank">disabilityservices@framingham.edu</a> if you have questions or if you need to schedule an appointment.<div class="autopermalink" data-description="Paragraph"><a href="#FAQ-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Paragraphs: What if I need academic accommodations like extra time or a reduced distraction environment for exams?"><a href="#FAQ-3" title="Copy heading and permalink for Paragraphs: What if I need academic accommodations like extra time or a reduced distraction environment for exams?" aria-label="Copy heading and permalink for Paragraphs: What if I need academic accommodations like extra time or a reduced distraction environment for exams?">🔗</a></div></section><section class="paragraphs" id="FAQ-4"><h2 class="heading"><span class="title">What if I am struggling with food or housing insecurity?</span></h2>
-<div class="para" id="FAQ-4-2">Visit the <a class="external" href="https://www.framingham.edu/campus-life/student-support-resources/rams-resource-center" target="_blank">Rams Resource Center</a> in West Hall 105 for non-perishable food items and toiletries.<div class="autopermalink" data-description="Paragraph"><a href="#FAQ-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="para" id="FAQ-4-3">To support students who are facing temporary or chronic homelessness and/or difficulty affording food, we have established a Single Point of Contact (SPOC) staff person to assist students with navigating campus and local resources. If you or someone you know needs help, please contact Olivia Fenty at (508) 626-4767, <a class="external" href="mailto:Ofenty@framingham.edu" target="_blank">ofenty@framingham.edu</a>, or stop by the Dean of Students Office. The Dean of Students Office is located on the 5th floor of the McCarthy Center in Suite 504.<div class="autopermalink" data-description="Paragraph"><a href="#FAQ-4-3" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Paragraphs: What if I am struggling with food or housing insecurity?"><a href="#FAQ-4" title="Copy heading and permalink for Paragraphs: What if I am struggling with food or housing insecurity?" aria-label="Copy heading and permalink for Paragraphs: What if I am struggling with food or housing insecurity?">🔗</a></div></section><section class="paragraphs" id="FAQ-5"><h2 class="heading"><span class="title">What if I need a letter of recommendation?</span></h2>
-<div class="para" id="FAQ-5-2">I routinely write letters of recommendation for students. It’s part of my job! If you need a letter of recommendation please email me and I will let you know whether or not I can write one for you. Note: I usually need at least two weeks to be able to write a quality letter.<div class="autopermalink" data-description="Paragraph"><a href="#FAQ-5-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Paragraphs: What if I need a letter of recommendation?"><a href="#FAQ-5" title="Copy heading and permalink for Paragraphs: What if I need a letter of recommendation?" aria-label="Copy heading and permalink for Paragraphs: What if I need a letter of recommendation?">🔗</a></div></section><section class="paragraphs" id="FAQ-6"><h2 class="heading"><span class="title">What other help is available on campus?</span></h2>
-<div class="para logical" id="FAQ-6-2">
-<ul class="disc" id="FAQ-6-2-1">
-<li id="FAQ-6-2-1-1">
-<div class="para" id="FAQ-6-2-1-1-1">
-<a class="external" href="https://www.framingham.edu/campus-life/counseling-health-and-wellness/health-center" target="_blank">Health Center</a><div class="autopermalink" data-description="Paragraph"><a href="#FAQ-6-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item"><a href="#FAQ-6-2-1-1" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
-</li>
-<li id="FAQ-6-2-1-2">
-<div class="para" id="FAQ-6-2-1-2-1">
-<a class="external" href="https://www.framingham.edu/campus-life/counseling-health-and-wellness/counseling-center" target="_blank">Counseling Center</a><div class="autopermalink" data-description="Paragraph"><a href="#FAQ-6-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item"><a href="#FAQ-6-2-1-2" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
-</li>
-<li id="FAQ-6-2-1-3">
-<div class="para" id="FAQ-6-2-1-3-1">
-<a class="external" href="https://www.framingham.edu/campus-life/dean-students-office" target="_blank">Dean of Students</a> (Office in McCarthy 504)<div class="autopermalink" data-description="Paragraph"><a href="#FAQ-6-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item"><a href="#FAQ-6-2-1-3" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
-</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="policies.html" class="internal"><span class="title">Course Policies</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies-3.html" class="internal"><span class="title">Attendance</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies-4.html" class="internal"><span class="title">Late work</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies-5.html" class="internal"><span class="title">Classroom Decorum</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies-6.html" class="internal"><span class="title">My Expectations</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies-7.html" class="internal"><span class="title">Academic Integrity</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies-8.html" class="internal"><span class="title">Generative AI</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies-9.html" class="internal"><span class="title">Antiracism at FSU</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies-10.html" class="internal"><span class="title">Sexual Harassment</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies-11.html" class="internal"><span class="title">Notice of Non-Discrimination and Diversity</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies-12.html" class="internal"><span class="title">Syllabus Changes</span></a></div></li>
 </ul>
-<div class="autopermalink" data-description="Paragraph"><a href="#FAQ-6-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Paragraphs: What other help is available on campus?"><a href="#FAQ-6" title="Copy heading and permalink for Paragraphs: What other help is available on campus?" aria-label="Copy heading and permalink for Paragraphs: What other help is available on campus?">🔗</a></div></section><div class="autopermalink" data-description="Chapter: Frequently Asked Questions"><a href="#FAQ" title="Copy heading and permalink for Chapter: Frequently Asked Questions" aria-label="Copy heading and permalink for Chapter: Frequently Asked Questions">🔗</a></div></section></div>
+</li>
+<li class="toc-item toc-section contains-active">
+<div class="toc-title-box"><a href="FAQ.html" class="internal"><span class="title">Frequently Asked Questions</span></a></div>
+<ul class="structural toc-item-list active">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="FAQ-2.html" class="internal"><span class="title">How can I get extra help learning the material?</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="FAQ-3.html" class="internal"><span class="title">What if I need academic accommodations like extra time or a reduced distraction environment for exams?</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="FAQ-4.html" class="internal"><span class="title">What if I am struggling with food or housing insecurity?</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="FAQ-5.html" class="internal"><span class="title">What if I need a letter of recommendation?</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="FAQ-6.html" class="internal"><span class="title">What other help is available on campus?</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="important-dates.html" class="internal"><span class="title">Important Dates</span></a></div></li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="section" id="FAQ"><h2 class="heading hide-type">
+<span class="type">Section</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Frequently Asked Questions</span>
+</h2>
+<nav class="summary-links"><ul>
+<li><a href="FAQ-2.html" class="internal"><span class="title">How can I get extra help learning the material?</span></a></li>
+<li><a href="FAQ-3.html" class="internal"><span class="title">What if I need academic accommodations like extra time or a reduced distraction environment for exams?</span></a></li>
+<li><a href="FAQ-4.html" class="internal"><span class="title">What if I am struggling with food or housing insecurity?</span></a></li>
+<li><a href="FAQ-5.html" class="internal"><span class="title">What if I need a letter of recommendation?</span></a></li>
+<li><a href="FAQ-6.html" class="internal"><span class="title">What other help is available on campus?</span></a></li>
+</ul></nav><div class="autopermalink" data-description="Section: Frequently Asked Questions"><a href="#FAQ" title="Copy heading and permalink for Section: Frequently Asked Questions" aria-label="Copy heading and permalink for Section: Frequently Asked Questions">🔗</a></div></section></div>
 <div id="ptx-content-footer" class="ptx-content-footer">
-<a class="previous-button button" href="policies.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="important-dates.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
+<a class="previous-button button" href="policies-12.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="FAQ-2.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
 </div></main>
 </div>
 <div id="ptx-page-footer" class="ptx-page-footer">
