@@ -3,12 +3,8 @@
 <section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Information</title>
 
-  <subsection xml:id="subsec-TheBasics">
-    <title>The Basics</title>
-
-    
-    <p>
-      <dl>
+  <p>
+    <dl>
       <li>
         <title>Instructor</title>
 
@@ -22,22 +18,24 @@
       </li>
 
       <li>
-        <title>Student Hours</title>
+         <title>Student Help Hours</title>
 
-        <p>
-          TBD
-        </p>
+          <p>
+            Mondays 10am-11am and Thursdays 1:30pm-3:30pm
+          </p>
 
-        <p>
-          <alert>Important</alert>: I <em>want</em> to see you in student hours, and will happily make appointments with you outside of the regular hours.  I'm also available by email and will respond within 24 hours, usually much sooner.  There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.
-        </p>
+          <p>
+            <alert>Important</alert>: I <em>want</em> to see you in student hours, and will happily make appointments with you outside of the regular hours.
+            I'm also available by email and will respond within 24 hours, usually much sooner.
+            There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.
+          </p>
       </li>
 
       <li>
         <title>Class meets</title>
 
         <p>
-          MWRF 12:30pm - 1:20pm in HH 405
+          MWRF 11:30am - 12:20pm in HH 405
         </p>
       </li>
 
@@ -58,6 +56,16 @@
         </p>
       </li>
 
+      <li>
+        <title>Homework</title>
+
+        <p>
+          All homework will appear in <url href="https://www.myopenmath.com/">MyOpenMath</url>.
+        </p>
+
+      </li>
+
+
 
       <li>
         <title>Textbook</title>
@@ -66,7 +74,6 @@
           <pubtitle>Precalculus</pubtitle>
           by OpenStax (2nd edition). <url href="https://openstax.org/details/books/precalculus-2e" visual="openstax/precalculus">Read Online</url>
         </p>
-
 
         <blockquote>
           <title>Reading Mathematics</title>
@@ -84,39 +91,10 @@
 
           <attribution><url href="https://en.wikipedia.org/wiki/Paul_Halmos" visual="wikipedia/Paul_Halmos">Paul Halmos</url></attribution>
         </blockquote>
-
-
       </li>
-
-      <li>
-        <title>Homework</title>
-
-        <p>
-          All homework will appear in <url href="https://www.myopenmath.com/" visual="myopenmath">MyOpenMath</url>.
-          To register for <alert>MATH 180 Precalculus - Spring 2026 - FSU</alert>, you will need the following.
-
-          <dl>
-            <li>
-              <title>Course ID:</title>
-
-              <p>304914</p>
-            </li>
-
-           <li>
-            <title>Enrollment Key:</title>
-            
-            <p>moynihan180002S26</p>
-          </li>
-        </dl>
-
-      </p>
-
-    </li>
-
-
+ 
     </dl>
-    </p>
+  </p>
 
-  </subsection>
 
 </section>

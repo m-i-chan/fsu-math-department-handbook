@@ -11,11 +11,38 @@
         Homework is your opportunity to practice with feedback.
         I expect that you work on the homework frequently.
         Do not expect to complete assignments in a single sitting.
+      </p>
 
+      <p>
         There are many outside resources (some good/bad and some ethnical/unethical) for completing math homework.
         You should work on the homework in a way that prepares you for exams.
         Our brains do not retain information that we don't work for.
       </p>
+
+      <p>
+        To register for <url href="https://www.myopenmath.com/" visual="myopenmath">MyOpenMath</url>, you will need the following.
+
+          <dl>
+            <li>
+              <title>Course Name:</title>
+
+              <p>MATH 180 Precalculus - Spring 2026 - FSU</p>
+            </li>
+
+            <li>
+              <title>Course ID:</title>
+
+              <p>304914</p>
+            </li>
+
+           <li>
+            <title>Enrollment Key:</title>
+            
+            <p>moynihan180002S26</p>
+          </li>
+        </dl>
+      </p>
+    
 
     </subsection>
 
@@ -24,7 +51,7 @@
       <title>Standards-Based Grading (SBG)</title>
 
       <p>
-    This semester 50% of your grade will be based on how many of the learning objectives you complete during the quizzes and exams.
+        This semester 50% of your grade will be based on how many of the learning objectives you complete during the quizzes and exams.
       </p>
 
 
@@ -32,27 +59,46 @@
 <p>
   <alert>How will my Course Objectives grade be determined?</alert>
 
-Each objective will be scored on a 4-point scale and averaged like your GPA.
+  Each objective will be scored on a 4-point scale and averaged like your GPA.
 </p>
 
-%\medskip
-%
-%Excellent (4 pts)
-%\quad Proficient (3 pts)
-%\quad Competent (2 pts)
-%\quad Developing (1 pt)
-%\quad Not Assessed (0 pts)
-
-\end{quote}
 
 
+   <tabular halign="right">
+        <row header="yes" bottom="minor" >
+          <cell>Obj. Grade</cell>
+          <cell>Points</cell>
+        </row>
+        <row>
+          <cell>Excellent</cell>
+          <cell>4</cell>
+        </row>
+        <row>
+          <cell>Proficient</cell>
+          <cell>3</cell>
+        </row>
+        <row>
+          <cell>Competent</cell>
+          <cell>2</cell>
+        </row>
+        <row>
+          <cell>Developing</cell>
+          <cell>1</cell>
+        </row>
+        <row>
+          <cell>No Evidence</cell>
+          <cell>0</cell>
+        </row>
+      </tabular>
 
-  <p>
+
+<p>
   <alert>How many reattempts do I have for each objective?</alert>
-    You will have at most two attempts at each objective during the semester.
-You will also only be able to complete so many objectives during the in-person exams and that will provide a limit on how many reattempts there are by the end of the semester.
-You will want to successfully complete some objectives on the first try to avoid falling behind.
-Also, the cumulative final exam is a third attempt at (most) objectives!
+  You will have at most two attempts at each objective during the quizzes.
+  You will also only be able to complete so many objectives during the in-person quizzes and exams.
+  That will provide a limit on how many reattempts there are by the end of the semester.
+  You will want to successfully complete some objectives on the first try to avoid falling behind.
+  Also, the cumulative final exam is a third attempt at (most) objectives!
 </p>
 
 
@@ -60,22 +106,22 @@ Also, the cumulative final exam is a third attempt at (most) objectives!
 <p>
   <alert>What is great about this?</alert>
   If you do not do well on the first attempt but you go back and learn the material, your better second attempt will be your grade!
-Knowing the material is the important thing and I do not want to penalize you for a mistake while learning.
+  Knowing the material is the important thing and I do not want to penalize you for a mistake while learning.
 </p>
 
 
 
 
   <p>
-    <alert>Where do students go wrong with this style of grading?</alert>
+  <alert>Where do students go wrong with this style of grading?</alert>
   They focus too strongly on only the reattempts and save the new material for later.
-  This then means they get a 0 on the first attempt and are back to the old style of grading where there is no chance to improve from a constructive first attempt.
+  This then means they get a 0 on the first attempt and are back to the old style of grading where there is no chance to improve from constructive feedback.
   </p>
 
-    </subsection>
+  </subsection>
 
-    <subsection>
-      <title>Final Exam</title>
+  <subsection>
+    <title>Final Exam</title>
 
       <p>
         The final exam will be cumulative.
@@ -93,94 +139,92 @@ Knowing the material is the important thing and I do not want to penalize you fo
 
       <p>
         The following percentage weights are used for calculating your weighted course average.
-         <sbsgroup widths="20% 15%" margins="30%">
-          <sidebyside>
-            <p>Homework</p>
-            <p>10%</p>
-          </sidebyside>
-
-          <sidebyside>
-            <p>Course Objectives</p>
-            <p>50%</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>Midterm Exam</p>
-            <p>15%</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>Final Exam</p>
-            <p>25%</p>
-          </sidebyside>
-        </sbsgroup>  
       </p>
+    
+      <tabular halign="right">
+        <row header="yes" bottom="minor" >
+          <cell>Category</cell>
+          <cell>Weight</cell>
+        </row>
+        <row>
+          <cell>Homework</cell>
+          <cell>10%</cell>
+        </row>
+        <row>
+          <cell>Course Objectives</cell>
+          <cell>50%</cell>
+        </row>
+        <row>
+          <cell>Midterm Exam</cell>
+          <cell>15%</cell>
+        </row>
+        <row>
+          <cell>Final Exam</cell>
+          <cell>25%</cell>
+        </row>
+      </tabular>
+
 
       <p>
         Final grades will be assigned based on the following scale.
         Students needing to take MATH 219 Calculus I are required to earn a C (2.00) or better in MATH 180 Precalculus.
-        <sbsgroup widths="10% 15%" margins="35%">
-          <sidebyside>
-            <p>A</p>
-            <p>93-100</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>A-</p>
-            <p>90-93</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>B+</p>
-            <p>87-90</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>B</p>
-            <p>83-87</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>B-</p>
-            <p>80-83</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>C+</p>
-            <p>77-80</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>C</p>
-            <p>73-77</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>C-</p>
-            <p>70-73</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>D+</p>
-            <p>67-70</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>D</p>
-            <p>63-67</p>
-          </sidebyside>
-          <sidebyside>
-            <p>D-</p>
-            <p>60-63</p>
-          </sidebyside>
-
-          <sidebyside>
-            <p>F</p>
-            <p>Below 60</p>
-          </sidebyside>
-        </sbsgroup>
-      
       </p>
+
+      <tabular halign="center">
+        <row header="yes" bottom="minor" >
+          <cell>Percentage</cell>
+          <cell>Grade</cell>
+        </row>
+        <row>
+          <cell>93-100</cell>
+          <cell>A</cell>
+        </row>
+        <row>
+          <cell>90-93</cell>
+          <cell>A-</cell>
+        </row>
+        <row>
+          <cell>87-90</cell>
+          <cell>B+</cell>
+        </row>
+        <row>
+          <cell>83-87</cell>
+          <cell>B</cell>
+        </row>
+        <row>
+          <cell>80-83</cell>
+          <cell>B-</cell>
+        </row>
+        <row>
+          <cell>77-80</cell>
+          <cell>C+</cell>
+        </row>
+        <row>
+          <cell>73-77</cell>
+          <cell>C</cell>
+        </row>
+        <row>
+          <cell>70-73</cell>
+          <cell>C-</cell>
+        </row>
+        <row>
+          <cell>67-70</cell>
+          <cell>D+</cell>
+        </row>
+        <row>
+          <cell>63-67</cell>
+          <cell>D</cell>
+        </row>
+        <row>
+          <cell>60-63</cell>
+          <cell>D-</cell>
+        </row>
+        <row>
+          <cell>Below 60</cell>
+          <cell>F</cell>
+        </row>
+      </tabular>
+
     </subsection>
 
 

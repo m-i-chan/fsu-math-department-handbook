@@ -9,13 +9,14 @@
     </p>
   </introduction>
 
-  <subsection>
+    <subsection>
     <title>Attendance</title>
 
     <p>
       Regular attendance is an expectation for all students in this course because attendance is important for learning the material.
       But attendance means more than simply physical presence.
       It also requires mental presence.
+      Attend every class awake, on time, and ready to learn with cell phones and all other electronic devices off and out of sight.
     </p>
     
     <p>
@@ -36,31 +37,25 @@
       In particular, I will consider recent attendance and recent homework to see if you have been participating in the course.
     </p>
     
-    <!-- <p>
-      Everyone will be given 5 late passes to extend homework due dates (with full credit)!
-      However, you can only extend the due date by one week.
+    <p>
+      Everyone will be given 4 late passes to extend homework due dates for full credit!
+      However, you can only extend a due date by one week.
       This is to make sure you do not fall too far behind and to make sure we are all ready to participate in class.
-    </p> -->
+    </p>
   </subsection>
 
-
-  <subsection>
-    <title>Classroom Decorum</title>
-        <p>
-          Show an attitude of respect toward everyone in the classroom.
-          Racist, sexist, antisemitic, Islamophobic, or pornographic content is never allowed.
-        </p>
-
-        <p>
-          Attend every class awake, on time, and ready to learn with cell phones and all other electronic devices off and out of sight.
-        </p>
-  </subsection>
 
 
   <subsection>
     <title>My Expectations</title>
         <p>
           <ul>
+            <li>
+              <p>
+                Show an attitude of respect toward everyone in the classroom.
+                Racist, sexist, antisemitic, Islamophobic, or pornographic content is never allowed.
+              </p>
+            </li>
             <li>
               <p>
                 Complete homework assignments carefully, thoughtfully, and on time.
@@ -94,6 +89,9 @@ Make sure you test yourself before I do!
         </p>
   </subsection>
 
+
+
+ 
   
   <subsection>
     <title>Academic Integrity</title>
@@ -109,7 +107,7 @@ Make sure you test yourself before I do!
           <p>
             Plagiarism: claiming as one's own work the published or unpublished literal or paraphrased work of another.
             It should be recognized that plagiarism is not only academically dishonest but also illegal;
-            (Proofs are writing! Using someone else's proof without proper citation is plagiarism!)
+            <!-- (Proofs are writing! Using someone else's proof without proper citation is plagiarism!) -->
           </p>
         </li>
         
@@ -140,10 +138,14 @@ Make sure you test yourself before I do!
     <title>Generative AI</title>
 
     <p>
+      <!--
       Use of AI in proof writing is prohibited.
       All proofs are writing assignments and should be done on your own.
       Also, LLM's are good at producing nonsense that sounds rational.
       They are bad at producing actual proofs.
+      -->
+      Use of Generative AI is prohibited because this emerging technology cannot do mathematics.
+      It can only mimic mathematics and lead learners astray.
     </p>
   </subsection>
 

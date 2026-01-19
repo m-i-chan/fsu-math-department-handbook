@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="important-dates">
-    <title>Important Dates</title>
+  <title>Important Dates</title>
 
   <p>
     The following are the most significant university and course dates this term.
-    For smaller course assignment due dates, check the <url href="https://framingham.instructure.com/">Canvas</url> calendar regularly.
+    For smaller course assignment due dates, check the <url href="https://framingham.instructure.com/">Canvas</url> and <url href="https://www.myopenmath.com/">MyOpenMath</url> calendars regularly.
   </p>
 
   <p>
@@ -14,7 +14,7 @@
         <title>Tuesday, Jan 27</title>
 
         <p>
-          Last day to add/drop a class
+          Last Day to Add/Drop a Course
         </p>
       </li>
 
@@ -30,7 +30,7 @@
         <title>Monday, Feb 16</title>
 
         <p>
-          Presidents' Day (no classes)
+          Presidents' Day (No Classes)
         </p>
       </li>
 
@@ -46,16 +46,24 @@
         <title>March 14 - March 22</title>
 
         <p>
-          Spring Vacation
+          Spring Vacation (No Classes)
         </p>
       </li>
 
 
       <li>
+        <title>Thursday, Mar 26</title>
+
+        <p>
+          Midterm Exam (Part 1)
+        </p>
+      </li>
+
+      <li>
         <title>Friday, Mar 27</title>
 
         <p>
-          Midterm Exam
+          Midterm Exam (Part 2)
         </p>
       </li>
 
@@ -71,7 +79,7 @@
         <title>Monday, Apr 20</title>
 
         <p>
-          Patriots' Day (no classes)
+          Patriots' Day (No Classes)
         </p>
       </li>
 
@@ -100,16 +108,16 @@
         <title>Friday, May 08</title>
 
         <p>
-          Semester classes end	
+          Semester Classes End	
         </p>
       </li>
 
 
       <li>
-        <title>TBA</title>
+        <title>Thursday, May 14</title>
 
         <p>
-          Final Exam from ? to ?
+          Final Exam from 8am to 11am
         </p>
       </li>
     </dl>
