@@ -7,7 +7,7 @@
 <tabular halign="left">
         <row header="yes" bottom="minor" >
           <cell>Name</cell>
-          <cell>  Office  </cell>
+          <cell> \ Office \ </cell>
           <cell>Email</cell>
           <cell>Phone</cell>
         </row>
