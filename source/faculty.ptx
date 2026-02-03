@@ -7,13 +7,13 @@
 <tabular halign="left">
         <row header="yes" bottom="minor" >
           <cell>Name</cell>
-          <cell> \ Office \ </cell>
+          <cell>Office</cell>
           <cell>Email</cell>
           <cell>Phone</cell>
         </row>
         <row>
           <cell>Sheree Arpin, Ph.D.</cell>
-          <cell>HH 402I</cell>
+          <cell><line>HH 402I</line></cell>
           <cell>sarpin@framingham.edu</cell>
           <cell>x4776</cell>
         </row>
@@ -25,7 +25,7 @@
         </row>
         <row>
           <cell>Michael Krul, Ph.D., Chair</cell>
-          <cell>HH 402H</cell>
+          <cell><line>HH 402H</line></cell>
           <cell>mkrul@framingham.edu</cell>
           <cell>x4877</cell>
         </row>
@@ -43,7 +43,7 @@
         </row>
         <row>
           <cell>Matthew Moynihan, Ph.D.</cell>
-          <cell>HH 402D</cell>
+          <cell><line>HH 402D</line></cell>
           <cell>mmoynihan5@framingham.edu</cell>
           <cell>x4728</cell>
         </row>
