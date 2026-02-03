@@ -6,80 +6,80 @@
   
       <!-- <tabular halign="left">-->
   
-      <tabular top="major">
+      <tabular>
         <col width="35%"/>
         <col width="15%"/>
         <col width="35%"/>
         <col width="15%"/>
       <!--  <row header="yes" bottom="minor" >-->
-        <row valign="top" bottom="medium">
+        <row valign="top" bottom="major">
           <cell>Name</cell>
           <cell>Office</cell>
           <cell>Email</cell>
           <cell>Phone</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Sheree Arpin, Ph.D.</cell>
+          <cell>Sheree Arpin</cell>
           <cell>HH 402I</cell>
           <cell>sarpin@framingham.edu</cell>
           <cell>x4776</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Benjamin Atchison, Ph.D.</cell>
+          <cell>Benjamin Atchison</cell>
           <cell>HH 402E</cell>
           <cell>batchison@framingham.edu</cell>
           <cell>x4725</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Michael Krul, Ph.D., Chair</cell>
+          <cell>Michael Krul, Chair</cell>
           <cell>HH 402H</cell>
           <cell>mkrul@framingham.edu</cell>
           <cell>x4877</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Julie Levandosky, Ph.D.</cell>
+          <cell>Julie Levandosky</cell>
           <cell>HH 402G</cell>
           <cell>jlevandosky@framingham.edu</cell>
           <cell>x4722</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Sarah Mabrouk, Ph.D.</cell>
+          <cell>Sarah Mabrouk</cell>
           <cell>HH 402B</cell>
           <cell>smabrouk@framingham.edu</cell>
           <cell>x4785</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Matthew Moynihan, Ph.D.</cell>
+          <cell>Matthew Moynihan</cell>
           <cell>HH 402D</cell>
           <cell>mmoynihan5@framingham.edu</cell>
           <cell>x4728</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Robert Page, Ph.D.</cell>
+          <cell>Robert Page</cell>
           <cell>HH 402F</cell>
           <cell>rpage@framingham.edu</cell>
           <cell>x4773</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Mohammad Salmassi, Ph.D.</cell>
+          <cell>Mohammad Salmassi</cell>
           <cell>HH 402J</cell>
           <cell>msalmassi@framingham.edu</cell>
           <cell>x4751</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Nicholas Sedlock, Ph.D.</cell>
+          <cell>Nicholas Sedlock</cell>
           <cell>HH 404D</cell>
           <cell>nsedlock@framingham.edu</cell>
           <cell>x4727</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Christopher Staniszewski, Ph.D.</cell>
+          <cell>Christopher Staniszewski</cell>
           <cell>HH 402C</cell>
           <cell>cstaniszewski@framingham.edu</cell>
           <cell>x4710</cell>
         </row>
         <row valign="top" bottom="minor">
-          <cell>Njesa Totty, Ph.D.</cell>
+          <cell>Njesa Totty</cell>
           <cell>HH 404C</cell>
           <cell>ntotty@framingham.edu</cell>
           <cell>x5765</cell>
