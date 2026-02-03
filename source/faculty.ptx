@@ -4,7 +4,9 @@
 
   <title>Full-time Faculty</title>
   
-<tabular halign="left">
+<table>
+  <title>Full-time Faculty</title>
+      <tabular halign="left">
         <row header="yes" bottom="minor" >
           <cell>Name</cell>
           <cell>Office</cell>
@@ -78,4 +80,5 @@
           <cell>x5765</cell>
         </row>
       </tabular>
-  </section>
+</table>
+</section>
