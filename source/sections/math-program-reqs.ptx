@@ -83,4 +83,138 @@
             </ul>
         </p>
     </subsection>
+    <subsection xml:id="subsec-umat">
+        <title>Minor in Secondary Education (UMAT)</title>
+        <p>
+            Students enrolled in the UMAT program must complete MATH 317 Higher Geometry, MATH 322 History of Mathematics, and three electives from the following list.
+            <ul>
+                <li>
+                    <p>
+                        MATH 222 Differential Equations
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Any MATH/STAT course at the 300-level or above
+                    </p>
+                </li>
+            </ul>
+        </p>
+        <p>
+            It is important to note that middle school or high school student teaching occurs only in the Spring semester. Please see the University Catalog for additional information on teacher education programs.
+        </p>
+    </subsection>
+    <subsection xml:id="subsec-math-minor">
+        <title>Mathematics Minor</title>
+        <p>
+            <ul>
+                <li>
+                    <p>
+                        MATH 219 Calculus I
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        One mathematics course at or above the 200-level or one of the following.
+                        <ul>
+                            <li>
+                                <p>
+                                    STAT 107 Business Statistics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    STAT 117 Introduction to Statistics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    STAT 157 Probability and Statistics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    STAT 203 Statistics for the Natural Sciences
+                                </p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Three additional mathematics courses at or above the 200-level.
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </subsection>
+    <subsection xml:id="subsec-math-edu-minor">
+        <title>Minor in Mathematics for Elementary Education</title>
+        <p>
+            <ul>
+                <li>
+                    <p>
+                        MATH 110 Mathematics for Elementary Educators I
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        MATH 120 Mathematics for Elementary Educators II
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        MATH 206 Discrete Mathematics I
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Three courses from the following list. At least one course must be at the 300-level.
+                        <ul>
+                            <li>
+                                <p>
+                                    MATH 219 Calculus I
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    MATH 220 Calculus II
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    MATH 226 Linear Algebra and Applications
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    MATH 301 Problem Solving and Modeling in Mathematics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    MATH 310 Number Theory
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    MATH 317 Higher Geometry
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    MATH 322 History of Mathematics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    STAT 117 Introduction to Statistics or STAT 157 Probability and Statistics
+                                </p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </subsection>
 </section>
