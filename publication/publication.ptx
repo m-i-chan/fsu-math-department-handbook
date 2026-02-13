@@ -146,10 +146,8 @@
     <!-- See also                                              -->
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
     <css
-        theme="default-modern"
-        primary-color="#FCB614"
-        secondary-color="#000000"
-        primary-color-dark="#5192BD"
+        theme="custom"
+        entry-point="./css/theme-framingham.scss"
         provide-dark-mode="yes"
     />
 
