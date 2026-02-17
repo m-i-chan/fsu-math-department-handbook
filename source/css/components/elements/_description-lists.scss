@@ -14,8 +14,6 @@
    a top margin on the dt.  Instead we have an ::after on the dd .
  */
 
-$wide-dt-width: 25ex;
-
 dl:is(.description-list, .glossary) {
   margin: 0;
   //overflow: hidden; // Removed to show permalinks
@@ -87,7 +85,7 @@ dl.description-list {
 
   &.wide {
     dt {
-      width: $wide-dt-width;
+      width: 25ex;
     }
 
     dd {
@@ -119,12 +117,10 @@ dl.description-list dl dd {
 
 
 @media screen and (max-width: 480px) {
-  dl.description-list dt,
-  dl.description-list.narrow dt {
+  dl.description-list dt {
     float: none;
     margin-left: 0;
     text-align: left;
-    width: $wide-dt-width;
   }
 
   dl.description-list dd,
