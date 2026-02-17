@@ -217,4 +217,193 @@
             </ul>
         </p>
     </subsection>
+    <subsection xml:id="subsec-stat-minor">
+        <title>Statistics Minor</title>
+        <p>
+            <ul>
+                <li>
+                    <p>
+                        One Course from the following list.
+                        <ul>
+                            <li>
+                                <p>
+                                    ENVS 202 Data Analysis for Scientists
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    QUAN 202 Statistical Analysis for Business and Economics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    STAT 107 Business Statistics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    STAT 117 Introduction to Statistics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    STAT 157 Probability and Statistics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    STAT 203 Statistics for the Natural Sciences
+                                </p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        STAT 307 Intermediate Statistics
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        STAT 308 Statistical Learning
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Two electives from the following list.
+                        <ul>
+                            <li>
+                                <p>
+                                    MATH 340 Probability Theory
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    MRKT 310 Marketing Research
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    MRKT 410 Advanced Marketing Research
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    PSYC 291 Psychology Research I: Descriptive and Correlational Methods
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    PSYC 391 Psychology Research II: Quasi-Experimental and Experimental Methods
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    QUAN 470 Applied Econometrics for Economics and Business
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    STAT 341 Mathematical Statistics I
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    STAT 342 Mathematical Statistics II
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    Any depertmental approved internship*
+                                </p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+            </ul>
+            *Any internship must be approved by both the home department and the Mathematics department.
+        </p>
+        <p>
+            No more than two course credits from a student's major home department may count towards both their major and the statistics minor.
+        </p>
+    </subsection>
+    <subsection xml:id="subsec-ai-minor">
+        <title>Minor in Artificial Intelligence (interdepartmental minor with Computer Science)</title>
+        <p>
+            <ul>
+                <li>
+                    <p>
+                        CSCI 130 Computer Science I Using Java OR CSCI Python Programming for Applications
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        CSCI 300 Artificial Intelligence
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        MATH 219 Calculus I
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        MATH 226 Linear Algebra and Applications
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        One course from the following list:
+                        <ul>
+                            <li>
+                                <p>
+                                    CSCI 490 Independent Study in Computer Science
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    CSCI 495 Internship in Computer Science
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    DGHM 110 Introduction to Digital Humanities
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    ENVS 333 Digital Field Methods: Drone, Data, &amp; Artificial Intelligence
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    MATH 490 Independent Study in Mathematics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    MATH 495 Internship in Mathematics
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    PHIL 102 Introduction to Ethics: Why by Moral?
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    PSYC 236 Psychology of Learning
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    PSYC 263 Cognitive Psychology
+                                </p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </subsection>
 </section>
