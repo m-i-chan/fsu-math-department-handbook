@@ -147,7 +147,7 @@
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
     <css
         theme="custom"
-        entry-point="./css/theme-framingham.scss"
+        entry-point="./css/targets/html/framingham/theme-framingham.scss"
         provide-dark-mode="yes"
     />
 
@@ -157,7 +157,7 @@
 
     <!-- Table of Contents: focused="yes" enables expand/collapse functionality. -->
     <!-- @preexpanded-levels controls how deep to expend toc initially.          -->
-      <toc focused="yes" preexpanded-levels="0" />
+      <tableofcontents focused="yes" preexpanded-levels="0" />
 
     <!-- Navigation options: linear or tree, and whether there is an "up" button -->
       <!--<navigation logic="tree" upbutton="no" />-->
